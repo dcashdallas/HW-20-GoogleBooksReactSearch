@@ -1,5 +1,6 @@
 <h1 align="center">Google Books React Search</h1>
-  ## Description
+
+  ## Description<br>
 
   A search tool for Google Books using React
   ## Table of Contents<br>
