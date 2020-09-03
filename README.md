@@ -2,6 +2,7 @@
 
   ## Demo<br>
 
+  ![google books search in action](https://github.com/dcashdallas/HW-21-GoogleBooksReactSearch/blob/master/client/public/images/googlebookssearch.gif)
 
   ## Description<br>
 
